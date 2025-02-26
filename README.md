@@ -150,4 +150,4 @@ Clarity:The improved prompt specifies the aspects of dogs to focus on_health ben
 Specificity:By asking for at least three specific advantages  the prompts guid the AI to provide detailed and quantifiable information rather than a general or broad overview 
 Conciseness:The improved prompt is direct and to the point , eliminating unneccessarywords while maintaining esential context . This helps AI generate a focused response without ambiguity 
 Effectiveness
-The improved prompt is more effective because it reduces ambiguity , leading to a more relevant and informative response . It directs the AI to provide targated information , ensuring that the output meets the users specific needs and expectations . This results in a satisfactory interactions and saves time by avoiding irrelevant details
+The improved prompt is more effective because it reduces ambiguity , leading to a more relevant and informative response . It directs the AI to provide targated information , ensuring that the output meets the users specific needs and expectations . This results in a satisfactory interactions and saves time by avoiding irrelevant details.
